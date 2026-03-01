@@ -1,0 +1,10 @@
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.tiff
+*.tif
+*.csv
+*.DS_Store
+__pycache__/
+photos/
